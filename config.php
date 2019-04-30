@@ -1,7 +1,7 @@
 <?php
-$node = 'https://explorer.scordite.one';
+$node = '95.179.160.20:26111';
 return array(
-	'api' => 'https://explorer.scordite.one',
+	'api' => '95.179.160.20:26111',
 	'blockTargetInterval' => 60,
 	'coinUnits' => 100000000,
 	'coinDecimals' => 8
