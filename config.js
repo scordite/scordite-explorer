@@ -1,5 +1,5 @@
-var api = 'https://karbo.club/services/node_web';
-var apiList = ["95.179.160.20:26111", "95.179.141.233:26111"};
+var api = '95.179.160.20:27111';
+var apiList = ["95.179.160.20:27111", "95.179.141.233:27111"};
 var blockTargetInterval = 60;
 var coinUnits = 100000000;
 var symbol = 'XSD';
@@ -9,9 +9,11 @@ var nightTheme = "css/themes/dark-theme.css";
 // pools stats by MainCoins
 var poolsStat = 
 	[
-		["egamelite", "199.247.0.152/#"],
+		["http://egamelite.com/scordite/#", "199.247.0.152/#"],
     ];
 var nodesStat = 
 	[
-        ["199.247.0.152/#"],
+        ["199.247.0.152:27111"],
+	["95.179.160.20:27111"],
+	["95.179.141.233:27111"],	
     ];
