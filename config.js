@@ -1,4 +1,4 @@
-var api = '95.179.160.20:27111';
+var api = '127.0.0.1:27111';
 var apiList = ["95.179.160.20:27111", "95.179.141.233:27111"};
 var blockTargetInterval = 60;
 var coinUnits = 100000000;
